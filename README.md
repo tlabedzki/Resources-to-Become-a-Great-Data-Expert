@@ -9,9 +9,9 @@ In this file, I have prepared a list of books, newsletters, and people from the 
 1. Soon...
 
 #### **List of blogs**
-1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)
+1. [Crappy Data by Kasia Dyl](https://crappydata.pl/) (PL)
 2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
 
 #### **List of newsletters**
-1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)
+1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)  (PL)
 2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
