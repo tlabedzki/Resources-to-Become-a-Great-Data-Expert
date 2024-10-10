@@ -9,7 +9,7 @@ In this file, I have prepared a list of books, newsletters, and people from the 
 1. Soon...
 
 #### **List of blogs**
-1. Soon...
+1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)
 
 #### **List of newsletters**
 1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)
