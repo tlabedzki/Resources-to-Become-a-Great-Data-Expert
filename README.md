@@ -1,4 +1,4 @@
-# Resources to become a great data expert
+# Resources to become a great Data Expert!
 
 Working with data has been my passion for many years.
 
