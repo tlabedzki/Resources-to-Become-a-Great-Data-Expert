@@ -18,4 +18,4 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
 
 #### **List of shops with knowledge**
-1. [packt](https://www.packtpub.com/en-pl)
+1. [packt](https://www.packtpub.com/en-pl){:target="_blank"}
