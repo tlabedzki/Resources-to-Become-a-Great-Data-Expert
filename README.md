@@ -16,3 +16,6 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 #### **List of newsletters**
 1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)  (PL)
 2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+
+#### **List of shops with knowledge**
+1. [<packt>](https://www.packtpub.com/en-pl)
