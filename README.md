@@ -9,13 +9,13 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 1. Soon...
 
 #### **List of blogs**
-1. [Medium](https://medium.com/)
-2. [Crappy Data by Kasia Dyl](https://crappydata.pl/) (PL)
-3. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+3. <a href="https://medium.com/" target="_blank">Medium</a>
+3. <a href="https://crappydata.pl/" target="_blank">Crappy Data by Kasia Dyl</a> (PL)
+3. <a href="https://blog.dailydoseofds.com/" target="_blank">Daily Dose of Data Science</a>
 
 #### **List of newsletters**
-1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)  (PL)
-2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+3. <a href="https://crappydata.pl/" target="_blank">Crappy Data by Kasia Dyl</a> (PL)
+3. <a href="https://blog.dailydoseofds.com/" target="_blank">Daily Dose of Data Science</a>
 
 #### **List of shops with knowledge**
-1. [packt](https://www.packtpub.com/en-pl){:target="_blank"}
+1. <a href="https://www.packtpub.com/en-pl" target="_blank">packt</a>
