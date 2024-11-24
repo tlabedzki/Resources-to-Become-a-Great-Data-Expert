@@ -19,3 +19,6 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 
 #### **List of shops with knowledge**
 1. [packt](https://www.packtpub.com/en-pl)
+
+#### **Valuable documentation**
+1. [Scikit-learn ](https://scikit-learn.org/stable/user_guide.html)
