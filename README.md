@@ -31,4 +31,4 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 1. [Mode](https://mode.com/sql-tutorial) - SQL
 
 #### **List of websites with data samples**
-1. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+1. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) - a lot of data samples useful for personal projects
