@@ -29,3 +29,6 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 
 #### **List of websites to train technical skills**
 1. [Mode](https://mode.com/sql-tutorial) - SQL
+
+#### **List of websites with data samples**
+1. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
