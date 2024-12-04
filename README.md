@@ -8,6 +8,7 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 #### **Online books**
 1. [Machine Learning, Tom Mitchell, McGraw Hill, 1997](https://www.cs.cmu.edu/~tom/mlbook.html)
 2. [Data Science - Przegląd zagadnień](https://datascience.com.pl/intro.html) (PL)
+3. [Data Science od Silky Coders](https://kikonpl.github.io/studia_PG/intro.html) (PL)
 
 #### **List of blogs**
 1. [Medium](https://medium.com/)
