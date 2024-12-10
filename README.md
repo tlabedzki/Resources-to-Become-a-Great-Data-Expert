@@ -7,8 +7,8 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 ## Data Science
 #### **Online books**
 1. [Machine Learning, Tom Mitchell, McGraw Hill, 1997](https://www.cs.cmu.edu/~tom/mlbook.html)
-2. [Data Science - Przegląd zagadnień](https://datascience.com.pl/intro.html) (PL)
-3. [Data Science od Silky Coders](https://kikonpl.github.io/studia_PG/intro.html) (PL)
+1. [Data Science - Przegląd zagadnień](https://datascience.com.pl/intro.html) (PL)
+1. [Data Science od Silky Coders](https://kikonpl.github.io/studia_PG/intro.html) (PL)
 
 #### **List of blogs**
 1. [Medium](https://medium.com/)
@@ -18,15 +18,15 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 
 #### **List of newsletters**
 1. [Crappy Data by Kasia Dyl](https://crappydata.pl/)  (PL)
-2. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+1. [Daily Dose of Data Science](https://blog.dailydoseofds.com/)
 
 #### **List of shops with knowledge**
 1. [packt](https://www.packtpub.com/en-pl)
 
 #### **Valuable libraries and tools documentation**
 1. [SQL Tutorial for Data Analysis on Mode.com](https://mode.com/sql-tutorial/introduction-to-sql)
-2. [scikit-learn](https://scikit-learn.org/stable/user_guide.html) - the most popular ML library in Python
-3. [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) - library that enables data retrieval, e.g., for testing purposes
+1. [scikit-learn](https://scikit-learn.org/stable/user_guide.html) - the most popular ML library in Python
+1. [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) - library that enables data retrieval, e.g., for testing purposes
 
 #### **List of websites to train technical skills**
 1. [Mode](https://mode.com/sql-tutorial) - SQL
