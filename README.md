@@ -25,8 +25,9 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 1. [packt](https://www.packtpub.com/en-pl)
 
 #### **Valuable libraries and tools documentation**
-1. [SQL Tutorial for Data Analysis on Mode.com](https://mode.com/sql-tutorial/introduction-to-sql)
+1. [SQL Tutorial for Data Analysis on Mode.com](https://mode.com/sql-tutorial/introduction-to-sql) - the most popular functions in SQL
 1. [scikit-learn](https://scikit-learn.org/stable/user_guide.html) - the most popular ML library in Python
+2. [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) - statistics for data analysis
 1. [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) - library that enables data retrieval, e.g., for testing purposes
 
 #### **List of websites to train technical skills**
