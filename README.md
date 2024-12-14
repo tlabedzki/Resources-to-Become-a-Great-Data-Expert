@@ -7,6 +7,7 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 ## Data Science
 #### **Online books**
 1. [Machine Learning, Tom Mitchell, McGraw Hill, 1997](https://www.cs.cmu.edu/~tom/mlbook.html)
+1. [15 Math Concepts Every Data Scientist Should Know](https://www.packtpub.com/en-us/product/15-math-concepts-every-data-scientist-should-know-9781837631940)
 1. [Data Science - Przegląd zagadnień](https://datascience.com.pl/intro.html) (PL)
 1. [Data Science od Silky Coders](https://kikonpl.github.io/studia_PG/intro.html) (PL)
 
