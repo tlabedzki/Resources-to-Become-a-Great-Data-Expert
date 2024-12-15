@@ -36,7 +36,7 @@ In this file, I have prepared a list of books, and newsletters from the data fie
 1. [Mode](https://mode.com/sql-tutorial) - SQL
 
 ### **List of shops with knowledge**
-1. [packt](https://www.packtpub.com/en-pl)
+1. [packt](https://www.packtpub.com/en-pl) - online platform offering books, e-books, and online courses
 
 ### **List of courses**
 1. [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
