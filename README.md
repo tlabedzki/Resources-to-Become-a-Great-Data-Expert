@@ -46,4 +46,4 @@ These are trusted sources that I personally use and highly recommend.
 
 ### **List of websites with data samples**
 1. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) - a lot of data samples useful for personal projects
-2. [Data Analysis Using SQL and Excel, 2nd Edition](https://www.wiley.com/en-ie/Data+Analysis+Using+SQL+and+Excel%2C+2nd+Edition-p-9781119021445#downloadstab-section)
+2. [Data Analysis Using SQL and Excel, 2nd Edition](https://www.wiley.com/en-ie/Data+Analysis+Using+SQL+and+Excel%2C+2nd+Edition-p-9781119021445#downloadstab-section) - in the download section, there are several sample datasets available for analyzing the data
