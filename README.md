@@ -13,6 +13,9 @@ These are trusted sources that I personally use and highly recommend.
 1. [Data Science - Przegląd zagadnień](https://datascience.com.pl/intro.html) (PL)
 1. [Data Science od Silky Coders](https://kikonpl.github.io/studia_PG/intro.html) (PL)
 
+### **Books**
+1. Dive Into Data Science: Use Python to Tackle Your Toughest Business Challenges, Bradford Tuckfield
+
 ### **List of blogs**
 1. [Medium](https://medium.com/)
 1. [Crappy Data by Kasia Dyl](https://crappydata.pl/) (PL)
