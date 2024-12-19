@@ -35,8 +35,9 @@ These are trusted sources that I personally use and highly recommend.
 6. [Quarto](https://quarto.org/) - an open-source scientific and technical publishing system
 7. [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) - library for using statistics in data analysis
 1. [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) - library that enables data retrieval, e.g., for testing purposes
-2. [cartopy](https://scitools.org.uk/cartopy/docs/latest/) - designed for geospatial data processing in order to produce maps and other geospatial data analyses
-3. [SQL Tutorial for Data Analysis on Mode.com](https://mode.com/sql-tutorial/introduction-to-sql) - the most popular functions in SQL
+2. [PySpark](https://spark.apache.org/docs/latest/) - big data processing and analyzing
+3. [cartopy](https://scitools.org.uk/cartopy/docs/latest/) - designed for geospatial data processing in order to produce maps and other geospatial data analyses
+4. [SQL Tutorial for Data Analysis on Mode.com](https://mode.com/sql-tutorial/introduction-to-sql) - the most popular functions in SQL
 
 ### **List of websites to train technical skills**
 1. [Mode](https://mode.com/sql-tutorial) - SQL
